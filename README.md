@@ -1,7 +1,7 @@
 ## 使用说明
 
 1. 在官网 <https://arcaea.lowiro.com/zh> 登录自己的账号
-2. 访问 <https://webapi.lowiro.com/webapi/user/me>
+2. 访问 <https://webapi.lowiro.com/webapi/user/me>（请复制链接再粘贴到新标签页而不是直接点开！）
 3. 按 F12 之类的键来打开控制台
 4. 复制 `abc.js` 的内容并在控制台内运行
 5. 查看输出
